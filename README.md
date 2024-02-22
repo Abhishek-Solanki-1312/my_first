@@ -1,3 +1,6 @@
 # my_first
 this is my first git repository.
-Author - Abhishek Solanki
+<br>
+Author - Abhishek Solanki 
+<br>
+(Indian Institute of Science, Bangalore)
